@@ -1,0 +1,64 @@
+Day-01:
+=======
+	Good Evening
+
+Python Versions:
+----------------
+	- Python 2.x [Older Version]
+	- Python 3.x [Latest Version]
+
+Python Version:
+===============
+	- cmd
+	- python -V
+
+Downloads and Installation:
+===========================
+
+Downloads:
+**********
+	> Open browser and search for "python.org" at first it displays "https://python.org" click on the link to proceed for the site
+	> It displays some options in navbar we need to place a cursor on "Downloads" and it diplays some other dropdown options like to select operating systems such as "windows,all,mac and linux etc.,"
+	> We need to select the operating system then it navigates to another page for selecting the releases
+	> In Python we can observe 2 versions such as
+		- python 2.x
+		- python 3.x
+		We use python 3.x because some of the packages and modules are predefined in it but not in python 2.x 
+	> In that page it will displays 2 releases such as
+		- Stable Release [Developed for users purpose]
+		- Pre Release [Still need to develop it is for developers purpose]
+	> If we need to download particular version of python like python 3.7 or 3.8 we need to search in browser for that we need to press "cntrl + f" and need to search as "python 3.x" etc., based on your requirement
+	> It displays some options in it but we need to select on stable release only.
+		- help file
+		- x86-64 embedded zip file
+		- x86-64 executeable file
+		- x86-64 web based installer
+		- x86 embedded zip file
+		- x86 executeable file
+		- x86 web based installer
+		** help file => Based on developers help it will run the codes
+		** embedded zip file => Already installed files so those files are compressed to use in systems without installation on your systems
+		** executeable => Only for windows users to install in your local systems
+		** web based installer => It can be installed through internet and downloads will be upgraded for each time if the updates are done for it. 
+	> In these options first we need to check system bit type either 32 or 64 bit operating system. If it is 64 then we need to download "windows x86-64 executeable installer" if 32 then we need to download "windows x86 executeable installer". Windows software extensions will be either ".exe or .msi" files.
+	> Click on the selected files based on your system bit then it will downloads the software in your local system.
+
+Installation:
+*************
+	> After Downloading the python software we need to double tap on it then and ask permissions to allow the software to install in your local system we need to tap "yes" to proceed for it.
+	> It will displays 2 options and 2 checkboxes such as
+		2 checkboxes:
+		=============
+			- Install for all users
+			- Add python 3.x to path
+			> For all users we need to access python then we need to check first option
+			> We need to set a path by default in environment variable path then we need to select this option. If not then it displays an error in "command prompt" while accessing python
+
+		2 options:
+		==========
+			- install now [Default path]
+			- customize installation [User selected path]
+		> While clicking on "install now" by default it automatically allocates to the path such as "c:/users/username/AppData/Local/Programs/Python/Python3x/".
+			Here python will be installed if we select this option while installing it
+		> Custom installation is user defined location path like c drive or d drive or etc., in that location the python will be installed but we need to select the "Add python 3.x to path" if not the python interpreter will not work in command prompt
+
