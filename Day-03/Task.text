@@ -1,0 +1,28 @@
+Task:
+=====
+Even: 4x**2+6y
+Odd: 23x**2+3y**3+4z
+Sample-1
+	Input:
+	    12
+	    2
+	    3
+	Output:
+	    Entered number is: 12
+	    Expresssion of 4x**2+6y is: ?
+Sample-2
+	Input:
+	    11
+	    34
+	    7
+	    4
+	Output:
+	    Entered number is: 11
+	    Expresssion of 23x**2+3y**3+4z is: ? 
+
+Topics:
+=======
+	- Jumping Statements
+	- Inner Loops
+	- Functions and its Types
+	- Function Argument types
